@@ -1,0 +1,225 @@
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.csproj.AssemblyReference.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.RazorAssemblyInfo.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.RazorAssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.staticwebassets.runtime.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.staticwebassets.endpoints.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.exe
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.deps.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.runtimeconfig.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\WebApplication2 maison-doree.pdb
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\scopedcss\bundle\WebApplication2 maison-doree.styles.css
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\scopedcss\projectbundle\WebApplication2 maison-doree.bundle.scp.css
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\l0fl1sjwbc-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\liufvg5stw-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\yxkhcx5ktj-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\mp5516jdqd-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\1508s8gx0e-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\zwlnltnpjt-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\m6yk667ok0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\cxka9gr1tn-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\qnaht44vq8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\6msjy9f6q3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\5i6ig6k30n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\eigmy3ts5h-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\qgru2mn4h0-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\aiqhh0jbfa-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\1mksao9sct-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\topy7pl5lm-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\53p9wcnfbf-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\sxpcfuhk6k-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\a2tx0yekq2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\as9gija2dp-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\m191514nxd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\jf84s0kz3m-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\8y861uk7ni-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\z2tql1l4p3-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\r5mj7wxnr1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\0g7ymbnazn-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\du0hinwrxs-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\y51u4hzhpx-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\b2auugvep4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\dsv7788bt5-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\j4d0rdmlen-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\7kg6wkknr9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\cwmm8kg8nu-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\bberlkeau4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\3rvsh7xtjr-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\mknhteqwi8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\ykdhukmiji-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\tjwn96eqty-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\6erv3shppc-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\4d6c4hrjdf-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\7psvd1ukxy-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\89axvaz74q-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\jie2xylwke-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\ql4s21otz4-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\3zwnbx79sk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\hohg1jozu6-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\vitlnx4re0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\w6bmellz33-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\uel3acdr89-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\3m73ud16vr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\xxa9si6yhr-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\pzqgpib0kn-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\8iexo29ahk-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\3tjf0vuwm0-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\mbgbuey4sw-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\bankb1t17p-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\8sdq0kvt72-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\dxjp3ewj04-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\3b79ovw9le-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\80lu0mz34f-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\1zjfxz6sfw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\liw4gknjcs-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\0i0oyx98eq-{0}-37km8hnab9-37km8hnab9.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\compressed\rb5pyekvmi-{0}-37km8hnab9-37km8hnab9.gz
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebAppli.497EEB16.Up2Date
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\refint\WebApplication2 maison-doree.dll
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.pdb
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\WebApplication2 maison-doree.genruntimeconfig.cache
+C:\Users\ASUS VIVOBOOK\source\repos\WebApplication2 maison-doree\WebApplication2 maison-doree\obj\Debug\net10.0\ref\WebApplication2 maison-doree.dll
